@@ -1,7 +1,7 @@
-## Descrição
+## 📌 Descrição
 - Este projeto é uma API REST desenvolvida com Spring Boot para gerenciar tarefas, ela permite listar, atualizar, criar e excluir tarefas.
 
-## Feramentas Utilizadas
+## 🔩 Feramentas Utilizadas
 - Java 17+
 - Spring Boot
 - Spring Data JPA
